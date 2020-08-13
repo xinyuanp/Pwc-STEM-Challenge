@@ -1,5 +1,5 @@
-# Pwc-STEM-Challenge
- commodities‘ VAT code classifer
+# Pwc-STEM-Challenge (commodities' VAT code classifer)
+ 
 Python程序：
 
 Dash-编码分类器.ipynb：基于Plotly的Dash构建的交互式网页，具有编码训练和模型训练的功能，运行后应生成本地网页。
